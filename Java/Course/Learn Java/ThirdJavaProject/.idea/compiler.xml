@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="PARALLEL_COMPILATION_OPTION" value="Disabled" />
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/src/AccessEncapsulationAndScope/Bank2.java" />
+      <file url="file://$PROJECT_DIR$/src/AccessEncapsulationAndScope/Bank3.java" />
+      <file url="file://$PROJECT_DIR$/src/InheritanceAndPolymorphism/Spaghetti1.java" />
+      <file url="file://$PROJECT_DIR$/src/StaticVariablesAndMethods/ATM.java" />
+    </excludeFromCompile>
+  </component>
+</project>
